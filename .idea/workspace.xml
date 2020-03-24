@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d00bb26b-8932-41f2-ac81-e85f7e58eb5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-10.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-11.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-12.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-13.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-6.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-7.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-8.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-9.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-9.md" afterDir="false" />
-    </list>
+    <list default="true" id="d00bb26b-8932-41f2-ac81-e85f7e58eb5f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +12,7 @@
     <session id="1167594439">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -228,8 +215,8 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="303" />
     <option name="width" value="1280" />
     <option name="height" value="723" />
   </component>
@@ -266,7 +253,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584683467241" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584683575296" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -292,16 +279,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584677137593</updated>
-      <workItem from="1584677140974" duration="4025000" />
+      <workItem from="1584677140974" duration="4554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4025000" />
+    <option name="totallyTimeSpent" value="4554000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="723" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="303" width="1280" height="723" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
