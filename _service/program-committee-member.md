@@ -7,6 +7,7 @@ date: 2016-01-18
 **2020**
 * PC Member: SANER’20 – 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (main research).
 * PC Member: MSR’20 –The 17th International Conference on Mining Software Repositories (Data Showcase Track).
+
 **2019**
 * Reviewer: EMSE ’19 –Springer’s Journal of Empirical Software Engineering.
 * Reviewer: SQJO ’19 –Springer’s Software Quality Journal.
@@ -16,6 +17,7 @@ date: 2016-01-18
 * Student Forum Chair: OSS’19 – 15th International Conference on Open Source Systems.
 * Social Media Co-Chairs: SANER’19 – 26th IEEE International Conference on Software Analysis, Evolution and Reengineering.
 * PC Member: SANER’19 – 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (main research).
+
 **2018**
 * Social Media Chairs: CSER’18 – Consortium for Software Engineering Research 2018 Fall Meeting.
 * Reviewer: EMSE ’18 –Springer’s Journal of Empirical Software Engineering.
@@ -24,10 +26,12 @@ date: 2016-01-18
 * Sub-reviewer: ICPC’18 – 26th IEEE International Conference on Program Comprehension (main research).
 * Sub-reviewer: MSR’18 – The 15th International Conference on Mining Software Repositories (main research).
 * Sub-reviewer: SANER’18 – 25th IEEE International Conference on Software Analysis, Evolution and Reengineering (main research).
+
 **2017**
 * Sub-reviewer: IEEE Software’17 – IEEE Software.
 * Sub-reviewer: ICPC’17 – 25th IEEE International Conference on Program Comprehension (main research).
 * Sub-reviewer: EMSE ’17 –Springer’s Journal of Empirical Software Engineering.
+
 **2016**
 * Sub-reviewer: ICPC’16 – 24th IEEE International Conference on Program Comprehension (main research).
 * Sub-reviewer: EMSE ’16 –Springer’s Journal of Empirical Software Engineering.
