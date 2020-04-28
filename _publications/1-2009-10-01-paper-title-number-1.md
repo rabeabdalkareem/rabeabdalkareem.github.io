@@ -1,15 +1,19 @@
----
-title: "A Machine Learning Approach to Improve the Detection of CI Skip Commits"
+
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publications/1-2009-10-01-paper-title-number-1
+
+title: "A Machine Learning Approach to Improve the Detection of CI Skip Commits"
+authors: "**R. Abdalkareem**, S. Mujahid, E. Shihab, and J. Rilling"
+venue_key: "tse19"
+track: 
+pages: "1-17"
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+doiurl: https://doi.org/10.1145/3338906.3338947
+
+paperurl: /files/13-fse19.pdf
+package: https://seers.utdallas.edu/projects/s2r-quality/
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+**Abstract:** Continuous Integration (CI) frameworks such as Travis CI, automatically build and run tests whenever a new commit is submitted/pushed. Although there are many advantages in using CI, e.g., speeding up the release cycle and automating the test execution process, it has been noted that the CI process can take a very long time to complete. One of the possible reasons for such delays is the fact that some commits (e.g., changes to readme files) unnecessarily kick off the CI process.
+Therefore, the goal of this paper is to automate the process of determining which commits can be CI skipped. We start by examining the commits of 58 Java projects and identify commits that were explicitly CI skipped by developers. Based on the manual investigation of 1,813 explicitly CI skipped commits, we first devise an initial model of a CI skipped commit and use this model to propose a rule-based technique that automatically identifies commits that should be CI skipped. To evaluate the rule-based technique, we perform a study on unseen datasets extracted from ten projects and show that the devised rule-based technique is able to detect and label CI skip commits, achieving Areas Under the Curve (AUC) values between 0.56 and 0.98 (average of 0.73). Additionally, we show that, on average, our technique can reduce the number of commits that need to trigger the CI process by 18.16%. We also qualitatively triangulated our analysis on the importance of skipping the CI process through a survey with 40 developers. The survey results showed that 75% of the surveyed developers consider it to be nice, important or very important to have a technique that automatically flags CI skip commits. To operationalize our technique, we develop a publicly available prototype tool, called CI-SKIPPER, that can be integrated with any git repository and automatically mark commits that can be CI skipped.
