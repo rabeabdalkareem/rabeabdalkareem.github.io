@@ -4,8 +4,8 @@ permalink: /publications/9-Abdalkareem_SW2017
 
 title: "What Do Developers Use the Crowd For? A Study Using Stack Overflow"
 authors: "R. Abdalkareem, E. Shihab, and J. Rilling"
-venue_key: Abdalkareem_SW2017
-track: IEEE Software: SI on Crowdsourcing for Software Engineering
+venue_key: "Abdalkareem_SW2017"
+track: 
 pages: "1–32"
 date: 2017-05-01
 doiurl: 

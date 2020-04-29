@@ -4,7 +4,7 @@ permalink: /publications/12-abdelkareem_emse2020
 
 title: "On the impact of using trivial packages: an empirical case study on npm and PyPI"
 authors: "R. Abdalkareem, V. Oda, S. Mujahid, and E. Shihab"
-venue_key: abdelkareem_emse2020
+venue_key: "abdelkareem_emse2020"
 track: Empirical Software Engineering (EMSE)
 pages: "1–39"
 date: 2020-03-01

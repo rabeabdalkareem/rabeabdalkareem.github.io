@@ -4,7 +4,7 @@ permalink: /publications/8-Abdalkareem_IST2017
 
 title: "On code reuse from StackOverflow: An exploratory study on Android apps"
 authors: "R. Abdalkareem, E. Shihab, and J. Rilling"
-venue_key: Abdalkareem_IST2017
+venue_key: "Abdalkareem_IST2017"
 track: Information and Software Technology
 pages: "1–14"
 date: 2017-05-01

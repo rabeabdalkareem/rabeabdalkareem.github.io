@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00bb26b-8932-41f2-ac81-e85f7e58eb5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_publications/1-mujahid_mobilesoft2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/1-mujahid_mobilesoft2017.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/10-mujahid_emse2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/10-mujahid_emse2018.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/my_publications.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/my_publications.bib" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,31 +28,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="bib" value="3" />
+          <entry key="bib" value="4" />
           <entry key="html" value="1" />
-          <entry key="md" value="49" />
+          <entry key="md" value="54" />
           <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="Markdown" value="49" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Markdown" value="54" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="bib" value="12" />
-          <entry key="md" value="84" />
+          <entry key="bib" value="15" />
+          <entry key="md" value="98" />
           <entry key="yml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="84" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Markdown" value="98" />
+          <entry key="PLAIN_TEXT" value="15" />
           <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
@@ -55,20 +61,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/my_publications.bib">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="699">
-              <caret line="52" column="28" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="28" />
+        <entry file="file://$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,41 +85,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/1-mujahid_mobilesoft2017.md">
+        <entry file="file://$PROJECT_DIR$/_publications/10-mujahid_emse2018.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/2-maldonado_icsme2017.md">
+        <entry file="file://$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/3-abdalkareem_fse_src_2017.md">
+        <entry file="file://$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/4-Abdalkareem_FSE2017.md">
+        <entry file="file://$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_publications/my_publications.bib">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="804">
+              <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -135,12 +161,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_publications/7-Mujahid_MSR2020.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -184,15 +210,15 @@
         <option value="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-13.md" />
         <option value="$PROJECT_DIR$/_service/program-committee-member.md" />
         <option value="$PROJECT_DIR$/_service/2020.md" />
+        <option value="$PROJECT_DIR$/_publications/1-mujahid_mobilesoft2017.md" />
         <option value="$PROJECT_DIR$/_publications/7-Mujahid_MSR2020.md" />
-        <option value="$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md" />
-        <option value="$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md" />
+        <option value="$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md" />
         <option value="$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md" />
+        <option value="$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md" />
+        <option value="$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md" />
+        <option value="$PROJECT_DIR$/_publications/my_publications.bib" />
         <option value="$PROJECT_DIR$/_publications/10-mujahid_emse2018.md" />
         <option value="$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md" />
-        <option value="$PROJECT_DIR$/_publications/my_publications.bib" />
-        <option value="$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md" />
-        <option value="$PROJECT_DIR$/_publications/1-mujahid_mobilesoft2017.md" />
       </list>
     </option>
   </component>
@@ -208,8 +234,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="31" />
-    <option name="y" value="23" />
+    <option name="x" value="138" />
+    <option name="y" value="78" />
     <option name="width" value="1828" />
     <option name="height" value="978" />
   </component>
@@ -281,7 +307,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588191639246" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588192476504" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -308,15 +334,15 @@
       <option name="presentableId" value="Default" />
       <updated>1584677137593</updated>
       <workItem from="1584677140974" duration="4554000" />
-      <workItem from="1588045403068" duration="3715000" />
+      <workItem from="1588045403068" duration="4512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8269000" />
+    <option name="totallyTimeSpent" value="9066000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="23" width="1828" height="978" extended-state="0" />
+    <frame x="138" y="78" width="1828" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19484882" />
@@ -562,73 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="31" selection-end-column="100" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" selection-end-line="30" selection-end-column="103" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/10-mujahid_emse2018.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="62" selection-end-line="34" selection-end-column="169" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="31" column="32" selection-end-line="31" selection-end-column="65" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/my_publications.bib">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="52" column="28" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/1-mujahid_mobilesoft2017.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -680,8 +639,75 @@
     <entry file="file://$PROJECT_DIR$/_publications/7-Mujahid_MSR2020.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/my_publications.bib">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/10-mujahid_emse2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
