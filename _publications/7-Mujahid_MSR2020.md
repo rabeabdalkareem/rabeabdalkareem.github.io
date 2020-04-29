@@ -4,7 +4,7 @@ permalink: /publications/7-Mujahid_MSR2020
 
 title: "Using Others’ Tests to Avoid Breaking Updates"
 authors: "S. Mujahid, R. Abdelkareem, E. Shihab, and S. McIntosh"
-venue_key: Mujahid_MSR2020
+venue_key: "Mujahid_MSR2020"
 track: The 17th International Conference on Mining Software Repositories is co-located with ICSE 2020 in Seoul, South Korea
 pages: "1–12"
 date: 2020-03-01
