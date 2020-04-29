@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00bb26b-8932-41f2-ac81-e85f7e58eb5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_publications/10-mujahid_emse2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/10-mujahid_emse2018.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/8-Abdalkareem_IST2017.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_publications/my_publications.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/my_publications.bib" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -132,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_publications/my_publications.bib">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="804">
-              <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -216,9 +210,9 @@
         <option value="$PROJECT_DIR$/_publications/11-abdalkareem_tse2019.md" />
         <option value="$PROJECT_DIR$/_publications/12-abdelkareem_emse2020.md" />
         <option value="$PROJECT_DIR$/_publications/13-abdalkareem_tse2020.md" />
-        <option value="$PROJECT_DIR$/_publications/my_publications.bib" />
         <option value="$PROJECT_DIR$/_publications/10-mujahid_emse2018.md" />
         <option value="$PROJECT_DIR$/_publications/9-Abdalkareem_SW2017.md" />
+        <option value="$PROJECT_DIR$/_publications/my_publications.bib" />
       </list>
     </option>
   </component>
@@ -307,7 +301,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588192476504" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588192605246" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -334,12 +328,12 @@
       <option name="presentableId" value="Default" />
       <updated>1584677137593</updated>
       <workItem from="1584677140974" duration="4554000" />
-      <workItem from="1588045403068" duration="4512000" />
+      <workItem from="1588045403068" duration="4637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9066000" />
+    <option name="totallyTimeSpent" value="9191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="138" y="78" width="1828" height="978" extended-state="0" />
@@ -686,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/my_publications.bib">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="804">
-          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/10-mujahid_emse2018.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -710,6 +697,13 @@
             <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/my_publications.bib">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
