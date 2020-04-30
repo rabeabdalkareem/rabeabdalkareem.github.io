@@ -5,7 +5,7 @@ permalink: /publications/10-mujahid_emse2018
 title: "An Empirical Study of Android Wear User Complaints"
 authors: "S. Mujahid, G. Sierra, R. Abdalkareem, E. Shihab, and W. Shang"
 venue_key: "mujahid_emse2018"
-track: 
+track: Empirical Software Engineering (EMSE)
 pages: "1–32"
 date: 2018-05-01
 doiurl: 
