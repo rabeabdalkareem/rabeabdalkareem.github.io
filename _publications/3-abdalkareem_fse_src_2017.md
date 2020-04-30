@@ -5,7 +5,6 @@ permalink: /publications/3-abdalkareem_fse_src_2017
 title: "Reasons and Drawbacks of using Trivial npm Packages: The Developers’ Perspective"
 authors: "R. Abdalkareem"
 venue_key: "abdalkareem_fse_src_2017"
-venue.name
 track: Proceedings of the 11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE’17)
 pages: "1–12"
 date: 2017-03-01

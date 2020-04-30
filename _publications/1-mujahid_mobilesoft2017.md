@@ -5,7 +5,6 @@ permalink: /publications/1-mujahid_mobilesoft2017
 title: "Examining User Complaints of Wearable Apps: A Case Study on Android Wear"
 authors: "S. Mujahid, G. Sierra, R. Abdalkareem, E. Shihab, and W. Shang"
 venue_key: "mujahid_mobilesoft2017"
-venue.name
 track: Proceedings of the 4th IEEE/ACM International Conference on Mobile Software Engineering and Systems (2017)
 pages: "1–12"
 date: 2017-03-01

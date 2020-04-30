@@ -5,7 +5,6 @@ permalink: /publications/6-abdellatif_msr2020
 title: "Challenges in Chatbot Development: A Study of Stack Overflow Posts"
 authors: "A. Abdellatif, D. E. Costa, K. Badran, R. Abdelkareem, and E. Shihab"
 venue_key: "Abdellatif_MSR2020"
-venue.name
 track: Proceedings of the 17th International Conference on Mining Software Repositories (MSR’20)
 pages: "1–12"
 date: 2020-03-01

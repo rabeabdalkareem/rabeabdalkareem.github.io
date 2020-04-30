@@ -5,7 +5,6 @@ permalink: /publications/2-maldonado_icsme2017
 title: "An Empirical Study On the Removal of Self-Admitted Technical Debt"
 authors: "E. Maldonado, R. Abdalkareem, E. Shihab, and A. Serebrenik"
 venue_key: "maldonado_icsme2017"
-venue.name
 track: Proceedings of the 33rd International Conference on Software Maintenance and Evolution (ICSME’17)
 pages: "1–12"
 date: 2017-03-01
