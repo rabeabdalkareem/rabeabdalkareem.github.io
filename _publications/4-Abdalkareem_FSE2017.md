@@ -5,11 +5,9 @@ permalink: /publications/4-Abdalkareem_FSE2017
 title: "Why Do Developers Use Trivial Packages? An Empirical Case Study on npm"
 authors: "R. Abdalkareem, O. Nourry, S. Wehaibi, S. Mujahid, and E. Shihab"
 venue_key: "Abdalkareem_FSE2017"
-venue.name
 track: Proceedings of the 11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE’17)
 pages: "1–12"
 date: 2017-03-01
-doiurl: 
 
 paperurl: /files/4-Abdalkareem_FSE2017.pdf
 notes:

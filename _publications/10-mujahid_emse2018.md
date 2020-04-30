@@ -8,7 +8,6 @@ venue_key: "mujahid_emse2018"
 track: Empirical Software Engineering (EMSE)
 pages: "1–32"
 date: 2018-05-01
-doiurl: 
 
 paperurl: /files/10-mujahid_emse2018.pdf
 notes:

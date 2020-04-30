@@ -8,7 +8,6 @@ venue_key: "Abdalkareem_SW2017"
 track: IEEE Software: SI on Crowdsourcing for Software Engineering
 pages: "1–32"
 date: 2017-05-01
-doiurl: 
 
 paperurl: /files/9-Abdalkareem_SW2017.pdf
 notes:

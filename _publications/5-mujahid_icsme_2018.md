@@ -5,7 +5,6 @@ permalink: /publications/5-mujahid_icsme_2018
 title: "Studying Permission Related Issues in Android Wearable Apps"
 authors: "S. Mujahid, R. Abdalkareem, and E. Shihab"
 venue_key: "mujahid_icsme_2018"
-venue.name
 track: Proceedings of the 34th International Conference on Software Maintenance and Evolution (ICSME’18)
 pages: "1–12"
 date: 2018-03-01
