@@ -41,13 +41,7 @@ layout: default
         {% if page.venue_key and page.date %}
 		  {% assign venue = site.data.venues[page.venue_key] %}
 		  
-		  <p>&nbsp;<i class="fa fa-book"></i>&nbsp;{{ venue.name }}
-			{% if venue.url %}
-				<a class="venue_info" href="{{ venue.url }}" target="_blank">({{venue.acronym}})</a>
-			{% else %}
-				<b>({{venue.acronym}})</b>
-			{% endif %}
-		  </p>
+
 		{% endif %}
         
 		<p class="archive_link_info">
