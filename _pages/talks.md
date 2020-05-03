@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Talks"
-permalink: /talks/
+permalink: /contact/
+title: "Contact"
 author_profile: true
 ---
 
-{% include base_path %}
+**Rabe Abdalkareem**  
+* Email: rab_abdu [at] encs [dot] concordia [dot] ca
