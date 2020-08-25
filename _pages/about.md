@@ -25,7 +25,9 @@ Research Interests
 1. Data-driven software engineering
 1. Software ecosystem 
 
-Take a look at my [publications](publications/) to know more about my research.
+
+For full detail about my research please look at my [publications](publications/).
+
 
 
 
