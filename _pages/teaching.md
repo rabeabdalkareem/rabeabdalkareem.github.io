@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-* COMP-249: – Object-Oriented Programming II (Winter 2020).
+* COMP-249: – Object-Oriented Programming II (Winter 2020):The course covers the higher-level subjects of object-oriented programming, including the design of classes, inheritance, composition, polymorphism, static and dynamic binding, abstract classes, exception handling, file I/O, recursion, interfaces, inner classes, graphical user interfaces, generics, collections and iterators. Various data structures are introduced including Array Lists, Linked Lists.
 
 
 **Teaching Assistant**
