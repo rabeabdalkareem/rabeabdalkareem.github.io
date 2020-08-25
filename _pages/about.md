@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently looking for a new job opportunity!**
+***I am currently looking for a new job opportunity!***
+** **
 
-Rabe Abdalkareem is a postdoctoral research fellow in the Software Analysis and Intelligence Lab [(SAIL)](https://sail.cs.queensu.ca/) at Queen’s University, Canada, where I work under the supervision of [Prof. Ahmed E. Hassan](https://research.cs.queensu.ca/home/ahmed/home/).
+Rabe Abdalkareem is a postdoctoral research fellow in the Software Analysis and Intelligence Lab [(SAIL)](https://sail.cs.queensu.ca/) at Queen’s University, Canada, where he works under the supervision of [Prof. Ahmed E. Hassan](https://research.cs.queensu.ca/home/ahmed/home/).
 
 Prior to joining the SAIL lab, he was a research assistant in the [DAS](http://das.encs.concordia.ca/) Lab at Concordia University. He obtained his Ph.D. in Software Engineering at Concordia University supervised by [Dr. Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/) and [Dr. Juergen Rilling](https://sites.google.com/view/juergenrilling/home)‎. He received his MSc. in Computer Science from Concordia University.
 
