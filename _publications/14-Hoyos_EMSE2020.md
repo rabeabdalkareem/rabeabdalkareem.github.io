@@ -5,8 +5,8 @@ permalink: /publications/14-Hoyos_EMSE2020
 title: "On the Removal of Feature Toggles A Study of Python Projects and Practitioners Motivations"
 authors: "J. Hoyos, R. Abdalkareem, S. Mujahid, E. Shihab, and A. Espinosa"
 venue_key: "Mujahid_MSR2020"
-track: Proceedings of the 17th International Conference on Mining Software Repositories (MSR’20)
-pages: "1–12"
+track: Empirical Software Engineering (EMSE)
+pages: "1–30"
 date: 2020-10-12
 doiurl: 
 
