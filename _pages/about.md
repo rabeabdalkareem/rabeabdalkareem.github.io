@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-***I am currently on the job market!***
-** **
+<span style="color: #f2f2f2">I am currently on the job market!</span>
+
 
 Rabe Abdalkareem is a postdoctoral research fellow in the Software Analysis and Intelligence Lab [(SAIL)](https://sail.cs.queensu.ca/) at Queen’s University, Canada, where he works under the supervision of [Prof. Ahmed E. Hassan](https://research.cs.queensu.ca/home/ahmed/home/).
 
