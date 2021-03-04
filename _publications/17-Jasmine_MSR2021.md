@@ -8,12 +8,12 @@ authors: "J. Latendresse, R. Abdalkareem, D. Elias Costa, and E. Shihab"
 
 
 venue_key: "JasmineMSR2021"
-track: Proceedings of the 17th International Conference on Mining Software Repositories (MSR’21), Mining Challenge Track.
+track: Proceedings of the 17th International Conference on Mining Software Repositories (MSR’21), Mining Challenge Track
 pages: "1–5"
 date: 2021-02-22
 doiurl: 
 
-paperurl: /files/16-Costa_TSE2021.pdf
+paperurl: /files/17-Jasmine_MSR2021.pdf
 notes:
 ---
 
