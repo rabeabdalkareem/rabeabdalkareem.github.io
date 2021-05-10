@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: #cf2828;text-align: center;font-size: 25pt;font-weight: 600;">I will be joining the School of Computer Science at Carleton University as a tenure-track assistant professor in July 2021. I have multiple positions for self-motivated and hard-working PhD and Master's students. Please contact me by email if you are interested.</span> 
+<span style="color: #000000;text-align: center;font-size: 5pt;font-weight: 600;">I will be joining the School of Computer Science at Carleton University as a tenure-track assistant professor in July 2021. I have multiple positions for self-motivated and hard-working PhD and Master's students. Please contact me by email if you are interested.</span> 
 
 
 Rabe Abdalkareem is a postdoctoral research fellow in the Software Analysis and Intelligence Lab [(SAIL)](https://sail.cs.queensu.ca/) at Queen’s University, Canada, where he works under the supervision of [Prof. Ahmed E. Hassan](https://research.cs.queensu.ca/home/ahmed/home/).
