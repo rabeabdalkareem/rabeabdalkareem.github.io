@@ -5,5 +5,7 @@ author_profile: true
 ---
 
 **Rabe Abdalkareem**  
-* Email: rab_abdu [at] encs [dot] concordia [dot] ca
+* Email: first_name[dot]family_name[at]carleton[dot]ca
+
+
 
