@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: #000000;text-align: center;font-size: 15pt;font-weight: 600;">I will be joining the [School of Computer Science](https://carleton.ca/scs/) at [Carleton University](https://carleton.ca/) as a tenure-track assistant professor in July 2021. I have multiple positions for self-motivated and hard-working PhD and Master's students. Please contact me by email if you are interested.</span> 
+<span style="color: #000000;text-align: center;font-size: 15pt;font-weight: 600;">I have multiple positions for self-motivated and hard-working PhD and Master's students. Please contact me by email if you are interested.</span> 
 
 
-Rabe Abdalkareem is a postdoctoral research fellow in the Software Analysis and Intelligence Lab [(SAIL)](https://sail.cs.queensu.ca/) at Queen’s University, Canada, where he works under the supervision of [Prof. Ahmed E. Hassan](https://research.cs.queensu.ca/home/ahmed/home/).
-
-Prior to joining the SAIL lab, he was a research assistant in the [DAS](http://das.encs.concordia.ca/) Lab at Concordia University. He obtained his Ph.D. in Software Engineering at Concordia University supervised by [Dr. Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/) and [Dr. Juergen Rilling](https://sites.google.com/view/juergenrilling/home)‎. He received his MSc. in Computer Science from Concordia University.
+Rabe Abdalkareem is a tenure-track assistant professor in the [School of Computer Science](https://carleton.ca/scs/) at [Carleton University](https://carleton.ca/). Prior to joining Carleton University, he was a postdoctoral research fellow in the Software Analysis and Intelligence Lab [(SAIL)](https://sail.cs.queensu.ca/) at Queen’s University, Canada. He obtained his Ph.D. in Software Engineering from Concordia University supervised by [Dr. Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/) and [Dr. Juergen Rilling](https://sites.google.com/view/juergenrilling/home). He received his MSc. in Computer Science from Concordia University.
 
 His research interests and expertise are in Software Engineering, with a special interest in Crowdsourcing in Software Engineering (e.,g. Stack Overflow and npm), Empirical Software Engineering, Mining Software Repositories, and Software Ecosystems. In particular, he leverages historical project data and applies Data Mining, Machine Learning, and Statistical Analysis techniques in order to better understand what and how software practitioners use the crowd and build techniques to help them effectively take advantage of these crowd resources.
 
