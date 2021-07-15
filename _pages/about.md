@@ -16,7 +16,7 @@ His research interests and expertise are in Software Engineering, with a special
 
 Research Interests
 ======
-1. Mining software engineering repositories
+1. Mining software repositories
 1. Empirical software engineering
 1. Software evolution and maintenance
 1. Software reuse
