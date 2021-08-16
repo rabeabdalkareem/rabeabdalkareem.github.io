@@ -4,7 +4,7 @@ permalink: /publications/18-Abbas_TSE2021
 
 title: "Dependency Smells in JavaScript Projects"
 
-authors: "A. Javan~Jafari, D. Elias~Costa, R. Abdalkareem, E. Shihab, and N. Tsantalis"
+authors: "A. Javan Jafari, D. Elias Costa, R. Abdalkareem, E. Shihab, and N. Tsantalis"
 
 
 
