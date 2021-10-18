@@ -4,7 +4,9 @@ permalink: /publications/20-Mujahid_TEM2021
 
 title: "Towards Using Package Centrality Trend to Identify Packages in Decline"
 
-authors: "A. Javan Jafari, D. Elias Costa, R. Abdalkareem, E. Shihab, and N. Tsantalis"
+authors: "S. Mujahid, D. Elias Costa, R. Abdalkareem, E. Shihab, M. Saied, B. Adams"
+
+
 
 
 
