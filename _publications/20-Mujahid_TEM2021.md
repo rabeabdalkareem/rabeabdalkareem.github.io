@@ -9,10 +9,10 @@ authors: "A. Javan Jafari, D. Elias Costa, R. Abdalkareem, E. Shihab, and N. Tsa
 
 
 
-venue_key: "AbbasTSE2021"
-track: IEEE Transactions on Software Engineering (TSE)
-pages: "1-18"
-date: 2021-08-16
+venue_key: "MujahidTME2021"
+track: IEEE Transactions on Engineering Management (TEM)
+pages: "1-16"
+date: 2021-10-18
 doiurl: 
 
 paperurl: /files/20-Mujahid_TEM2021.pdf
