@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publications/18-Abbas_TSE2021
+permalink: /publications/20-Mujahid_TEM2021
 
 title: "Dependency Smells in JavaScript Projects"
 
@@ -15,7 +15,7 @@ pages: "1-18"
 date: 2021-08-16
 doiurl: 
 
-paperurl: /files/19-Abbas_TSE2021.pdf
+paperurl: /files/20-Mujahid_TEM2021.pdf
 notes:
 ---
 
