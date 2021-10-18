@@ -2,7 +2,7 @@
 collection: publications
 permalink: /publications/20-Mujahid_TEM2021
 
-title: "Dependency Smells in JavaScript Projects"
+title: "Towards Using Package Centrality Trend to Identify Packages in Decline"
 
 authors: "A. Javan Jafari, D. Elias Costa, R. Abdalkareem, E. Shihab, and N. Tsantalis"
 
