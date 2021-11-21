@@ -4,8 +4,7 @@ title: "Team"
 author_profile: true
 ---
 
-**Rabe Abdalkareem**  
-* Email: first_name[dot]family_name[at]carleton[dot]ca
+<span style="color: #000000;text-align: center;font-size: 15pt;font-weight: 600;">I have multiple positions for self-motivated and hard-working PhD and Master's students. Please contact me by email if you are interested.</span> 
 
 
 

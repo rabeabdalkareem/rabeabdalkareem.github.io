@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: #000000;text-align: center;font-size: 15pt;font-weight: 600;">I have multiple positions for self-motivated and hard-working PhD and Master's students. Please contact me by email if you are interested.</span> 
+
 
 
 Rabe Abdalkareem is a tenure-track assistant professor in the [School of Computer Science](https://carleton.ca/scs/) at [Carleton University](https://carleton.ca/). Prior to joining Carleton University, he was a postdoctoral research fellow in the Software Analysis and Intelligence Lab [(SAIL)](https://sail.cs.queensu.ca/) at Queen’s University, Canada. He obtained his Ph.D. in Software Engineering from Concordia University supervised by [Dr. Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/) and [Dr. Juergen Rilling](https://sites.google.com/view/juergenrilling/home). He received his MSc. in Computer Science from Concordia University.
