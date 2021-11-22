@@ -12,7 +12,7 @@ author_profile: true
 <span style="color: #000000;text-align: center;font-size: 15pt;font-weight: 600;">
 Masters Students</span> 
 
-* Vivek Thaker
+* [Vivek Thaker](https://www.linkedin.com/in/vivek-thaker-771b3a1a3/) 
 * Abderraouf Drine
 
 
