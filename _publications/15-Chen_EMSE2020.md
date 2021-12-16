@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publications/14-Hoyos_EMSE2020
+permalink: /publications/15-Chen_EMSE2020
 
 title: "Helping or not Helping? Why and How Trivial Packages Impact the npm Ecosystem"
 authors: "X. Chen, R. Abdalkareem, S. Mujahid, E. Shihab, and X. Xia"
