@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+* COMP 5900 K / CSI 5137 IW00: Selected Topics in CS -Software Ecosystems.
 
-
-* COMP-249: – Object-Oriented Programming II (Winter 2020):The course covers the higher-level subjects of object-oriented programming, including the design of classes, inheritance, composition, polymorphism, static and dynamic binding, abstract classes, exception handling, file I/O, recursion, interfaces, inner classes, graphical user interfaces, generics, collections and iterators. Various data structures are introduced including Array Lists, Linked Lists.
+* COMP-249: Object-Oriented Programming II (Winter 2020).
 
 
 **Teaching Assistant**
