@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**COMP 5900 K / CSI 5137 IW00: Selected Topics in CS - Software Ecosystems.**
+**COMP 5900 K / CSI 5137 IW00: Selected Topics in CS - Software Ecosystems (Winter 2022).**
 * Lectures: Monday 8:30 – 11:30 AM (see the Zoom link in Brightspace).
 * Course website: Available through 
 <a href="https://carleton.ca/brightspace/instructors/accessing-brightspace/">Brightspace</a>
