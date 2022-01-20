@@ -13,7 +13,7 @@ author_profile: true
 Masters Students</span> 
 
 * [Vivek Thaker](https://www.linkedin.com/in/vivek-thaker-771b3a1a3/) 
-* Abderraouf Drine
+
 
 
 
