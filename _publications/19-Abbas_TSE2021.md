@@ -10,7 +10,7 @@ authors: "A. Javan Jafari, D. Elias Costa, R. Abdalkareem, E. Shihab, and N. Tsa
 
 
 venue_key: "AbbasTSE2021"
-track: IEEE Transactions on Software Engineering (TSE) - <strong>invited to be presented at ICSE 2022 as a Journal First paper.</strong>
+track: IEEE Transactions on Software Engineering (TSE) - <strong>invited to be presented at ICSE 2022 as a Journal First.</strong>
 pages: "1-18"
 date: 2021-08-16
 doiurl: 

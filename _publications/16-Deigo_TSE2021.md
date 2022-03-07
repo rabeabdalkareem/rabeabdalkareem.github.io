@@ -8,7 +8,7 @@ authors: "D. Costa, S. Mujahid, R. Abdalkareem, and E. Shihab"
 
 
 venue_key: "CostaTSE2021"
-track: IEEE Transactions on Software Engineering (TSE) - This paper is invited to be presented at ICSE 2022 as a Journal First paper.
+track: IEEE Transactions on Software Engineering (TSE) - - <strong>invited to be presented at ICSE 2022 as a Journal First.</strong>
 pages: "1–17"
 date: 2021-02-02
 doiurl: 
