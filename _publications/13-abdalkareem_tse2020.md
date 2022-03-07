@@ -5,7 +5,7 @@ permalink: /publications/13-abdalkareem_tse2020
 title: "A Machine Learning Approach to Improve the Detection of CI Skip Commits"
 authors: "R. Abdalkareem, S. Mujahid, and E. Shihab"
 venue_key: "abdalkareem_tse2020"
-track: IEEE Transactions on Software Engineering (TSE)
+track: IEEE Transactions on Software Engineering (TSE) - This paper is invited to be presented at ICSE 2021 as a Journal First paper.
 pages: "1–18"
 date: 2020-03-01
 
