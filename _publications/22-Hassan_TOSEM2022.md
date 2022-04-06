@@ -4,21 +4,19 @@ permalink: /publications/22-Hassan_TOSEM2022
 
 title: "On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests: A Mixed-Methods Study of 10 Large Open-Source Projects"
 
-authors: "N. Alexandre Nagy and R. Abdalkareem"
+authors: "S. Khatoonabadi, D. Elias Costa, R. Abdalkareem, and E. Shihab"
 
 
-venue_key: "NicholasMSR2022"
-track: Proceedings of the 18th International Conference on Mining Software Repositories (MSR’22), Mining Challenge Track
-pages: "1–5"
-date: 2022-03-07
+
+
+venue_key: "HassanTOSEM2022"
+track: ACM Transactions on Software Engineering and Methodology (TOSEM)
+pages: "1–39"
+date: 2022-04-05
 doiurl: 
 
 paperurl: /files/22-Hassan_TOSEM2022.pdf
 notes:
 ---
 
-**Abstract:** Refactoring is a widespread practice that aims to help improve the quality of a software system without altering its external behaviour. In practice, developers can perform refactoring operations on test and source code. 
-However, while prior work shows that refactoring source code brings many benefits, a limited number of studies empirically investigate refactoring of test code and whether it is co-occurred with source code. To examine those co-occurring refactorings, we conducted an empirical study of 60,465 commits spanning 77 open-source Java projects.
-
-First, we quantitatively analyzed the commits from those projects to identify co-occurring refactoring commits (i.e., commits contain refactorings performed on test and source code). Our results showed that on average 17.9% of refactoring commits are co-occurring refactoring commits, which is twice as much as test code-only refactoring commits. Also, we investigated the type of refactorings applied to test code in those co-occurring commits. We found Change Variable Type and Move Class are the most common refactorings. 
-Second, we trained random forest classifiers to predict when refactoring test code should co-occur with refactoring source code using features extracted from the refactoring source code in ten selected projects. Our results showed that the classifier can accurately predict when test and source code refactoring co-occurs with AUC values between 0.67-0.92. Our analysis also showed that the most important features for our classifier are related the refactoring size and developer refactoring experience.
+**Abstract:** Pull-based development has enabled numerous volunteers to contribute to open-source projects with fewer barriers. Nevertheless, a considerable amount of pull requests (PRs) with valid contributions are abandoned by their contributors, wasting the effort and time put in by both their contributors and maintainers. To gain a more comprehensive understanding of the underlying dynamics of contributor-abandoned PRs, we conduct a mixed-methods study using both quantitative and qualitative methods. We curate a dataset consisting of 266,039 PRs, including 4,450 abandoned ones from ten popular and mature GitHub projects and measure 16 features characterizing PRs, contributors, review processes, and projects. Using statistical and machine learning techniques, we observe that complex PRs, novice contributors, and lengthy reviews have a higher probability of abandonment and the rate of PR abandonment fluctuates alongside the projects’ maturity or workload. To identify why contributors abandon their PRs, we also manually examine a random sample of 354 abandoned PRs. We find that the most frequent abandonment reasons are related to the obstacles faced by contributors, followed by the hurdles imposed by maintainers during the review process. Finally, we survey the top core maintainers of the study projects to understand their perspectives on dealing with PR abandonment and on our findings.
