@@ -8,7 +8,7 @@ authors: "N. Alexandre Nagy and R. Abdalkareem"
 
 
 venue_key: "NicholasMSR2022"
-track: Proceedings of the 18th International Conference on Mining Software Repositories (MSR’22), Mining Challenge Track<strong> <li style="color:#E42217">Received the Best Student Presentation of the Mining Challenge track</li></strong>
+track: Proceedings of the 18th International Conference on Mining Software Repositories (MSR’22), Mining Challenge Track<strong style="color:#E42217"> - Received the Best Student Presentation of the Mining Challenge track</strong>
 
 
 
