@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 **Rabe Abdalkareem**  
-* Email: first_name[dot]family_name[at]carleton[dot]ca
+* Email: first_name[dot]family_name[at]omu[dot]edu[dot]ly
+         
 
 
 
