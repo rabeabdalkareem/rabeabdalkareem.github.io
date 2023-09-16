@@ -7,6 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+
+**CSCI 131: Programming I, Undergraduate course, Omar Al-Mukhtar University [Fall 2022, Winter 2023].**
+The course mainly includes explanations and discussions of the following topics: introduction to programming;
+writing, compiling, and running simple programs; expressions, variables, and assignments; control structures,
+functions, arrays, structures, and objects and classes.
+
+**CSCI 334: Visual Programming, Undergraduate course, Omar Al-Mukhtar University [Winter 2023].**
+The primary objective of this course is to enable students to learn event-driven programming and build complete
+Windows applications. The course will mainly include explanations and discussions of the following topics:
+Introduction event drive programming and visual programming, controls (properties events), error handling, files
+manipulation, connecting to databases, reports, packaging, and distribution.
+
+
+
 **COMP 5900 K / CSI 5137 IW00: Selected Topics in CS - Software Ecosystems (Winter 2022).**
 * Lectures: Monday 8:30 – 11:30 AM (see the Zoom link in Brightspace).
 * Course website: Available through 
