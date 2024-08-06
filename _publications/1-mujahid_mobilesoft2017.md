@@ -13,6 +13,7 @@ doiurl:
 paperurl: /files/1-mujahid_mobilesoft2017.pdf
 notes:
 ---
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100867241&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100867241" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 **Abstract:** Wearable apps are becoming increasingly popular
               in recent years. However, to date, very few studies examined
