@@ -24,7 +24,7 @@ manipulation, connecting to databases, reports, packaging, and distribution.
 <hr>
 **COMP 3999: Evaluator of the co-operative work term report, Carleton University [Summer 2021, Fall 2021, Winter 2022]**
 <hr>
-**COMP 5900 K / CSI 5137 IW00: Selected Topics in CS - Software Ecosystems, , Carleton University [Winter 2022].**
+**COMP 5900 K / CSI 5137 IW00: Selected Topics in CS - Software Ecosystems, , Carleton University [Winter 2022].** The main objective of this seminar course is to introduce students to the field of software ecosystems, including extensive mining software ecosystems data, software reuse, evolution and quality of software ecosystems, and software dependencies management. At the end of the course, students will acquire the knowledge required to extract and mine data from software ecosystems artifacts and perform quantitative and qualitative analyses. In addition, students are expected to study, discuss, and critique research papers appearing in the current literature. Finally, students are expected to finish a research project.s
 * Lectures: Monday 8:30 – 11:30 AM (see the Zoom link in Brightspace).
 * Course website: Available through 
 <a href="https://carleton.ca/brightspace/instructors/accessing-brightspace/">Brightspace</a>
