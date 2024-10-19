@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **CSCI 133: Programming II, Undergraduate course, Omar Al-Mukhtar University [Winter 2024, Fall 2024].** The course will mainly include explanations and discussions of the following topics: Introduction to OOP; Classes and objects. Advanced object-oriented programming concepts: design, encapsulation and information hiding, separation of behavior and implementation. Classes and subclasses inheritance, interfaces, abstract classes, polymorphism, exception handling, file I/O, string manipulations and GUI design. Various data structures will be introduced including Array Lists and Linked Lists.
-
+<hr>
 **CSCI 131: Programming I, Undergraduate course, Omar Al-Mukhtar University [Fall 2022, Winter 2023, Fall 2023].**
 The course mainly includes explanations and discussions of the following topics: introduction to programming;
 writing, compiling, and running simple programs; expressions, variables, and assignments; control structures,
