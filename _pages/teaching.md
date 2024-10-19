@@ -32,7 +32,7 @@ manipulation, connecting to databases, reports, packaging, and distribution.
 * Brightspace for University of Ottawa students: Please, fill out this [form](https://gradstudents.carleton.ca/faculty-of-graduate-and-postdoctoral-affairs-access-to-brightspace/) or contact grad studies.
 <hr>
 
-**COMP-249: Object-Oriented Programming II, Concordia University [Winter 2020].**
+**COMP-249: Object-Oriented Programming II, Concordia University [Winter 2020].** The course covers the higher-level subjects of object-oriented programming, including the design of classes, inheritance, composition, polymorphism, static and dynamic binding, abstract classes, exception handling, file I/O, recursion, interfaces, inner classes, graphical user interfaces, generics, collections and iterators. Various data structures will be introduced including Array Lists, Linked Lists, as well as Hash Tables, Tress and Sets (if time allows).
 <hr>
 
 **Teaching Assistant**
