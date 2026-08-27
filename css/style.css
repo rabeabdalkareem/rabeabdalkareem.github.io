@@ -340,7 +340,9 @@ button { font-family: inherit; }
 }
 .pub-card:first-child { padding-top: 0; }
 .pub-meta { font-family: var(--font-mono); font-size: 0.76rem; color: var(--ink-faint); margin-bottom: 0.4rem; letter-spacing: 0.02em; }
-.pub-title { font-size: 1.15rem; margin-bottom: 0.35rem; }
+.pub-title-row { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.35rem; flex-wrap: wrap; }
+.pub-title { font-size: 1.15rem; margin-bottom: 0; }
+.pub-title-row img { display: block; height: 20px; width: auto; flex: none; }
 .pub-authors { color: var(--ink-soft); font-size: 0.92rem; margin-bottom: 0.7rem; }
 .pub-authors .self { color: var(--ink); font-weight: 600; }
 .pub-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.9rem; }
