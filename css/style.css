@@ -345,7 +345,7 @@ button { font-family: inherit; }
 .pub-authors .self { color: var(--ink); font-weight: 600; }
 .pub-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.9rem; }
 .pub-actions { display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap; }
-.pub-actions img { display: block; height: 40px; width: auto; }
+.pub-actions img { display: block; height: 45px; width: auto; }
 
 @media (max-width: 640px) {
   .pub-card { grid-template-columns: 1fr; }
