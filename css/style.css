@@ -346,8 +346,8 @@ button { font-family: inherit; }
 .pub-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.9rem; }
 .pub-actions { display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap; }
 
-.pub-badges { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.75rem; }
-.pub-badges img { display: block; height: 50px; width: auto; }
+.pub-badges { display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap; gap: 1rem; margin-bottom: 1.75rem; overflow-x: auto; }
+.pub-badges img { display: block; height: 44px; width: auto; flex: none; }
 
 @media (max-width: 640px) {
   .pub-card { grid-template-columns: 1fr; }
