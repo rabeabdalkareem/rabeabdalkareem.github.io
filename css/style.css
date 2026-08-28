@@ -347,7 +347,7 @@ button { font-family: inherit; }
 .pub-actions { display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap; }
 
 .pub-badges { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.75rem; }
-.pub-badges img { display: block; height: 40px; width: auto; }
+.pub-badges img { display: block; height: 35px; width: auto; }
 
 @media (max-width: 640px) {
   .pub-card { grid-template-columns: 1fr; }
